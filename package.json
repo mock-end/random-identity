@@ -1,7 +1,7 @@
 {
   "name": "random-identity",
   "version": "1.0.0",
-  "description": "Generate a customisable random ID",
+  "description": "Generate a random ID.",
   "main": "index.js",
   "scripts": {
     "lint": "jshint index.js",
