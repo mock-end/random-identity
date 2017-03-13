@@ -45,7 +45,7 @@ randomUuid(64);
 - [random-unicode](https://github.com/mock-end/random-unicode) - Generate a random unicode.
 - [random-bool](https://github.com/mock-end/random-bool) - Generate a random boolean (true/false).
 - [random-char](https://github.com/mock-end/random-char) - Generate a random char.
-- [random-lorem](https://github.com/mock-end/random-lorem) - Generate a random world.
+- [random-lorem](https://github.com/mock-end/random-lorem) - Generate a random word.
 - [random-title](https://github.com/mock-end/random-title) - Generate a random title.
 - [random-sentence](https://github.com/mock-end/random-sentence) - Generate a random sentence.
 - [random-paragraph](https://github.com/mock-end/random-paragraph) - Generate a random paragraph.
